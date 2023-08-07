@@ -21,10 +21,14 @@ The heart of the project was the creation of a sophisticated and interactive das
 
 8) To enhance user interactivity and customization, a slicer was incorporated, enabling users to filter the dashboard by country, thereby tailoring the analysis to specific regions of interest.
 
-In addition, four insightful cards were integrated into the dashboard:
-i) Most Used Weapon: Displaying the weapon type most frequently employed in attacks.
-ii) Total Targets: Showing the overall count of distinct target types.
-iii) Maximum Attacks: Identifying the peak count of attacks within the dataset.
-iv) Most Deadly Group: Highlighting the terrorist group associated with the highest number of casualties.
+    In addition, four insightful cards were integrated into the dashboard:
 
-The result is a visually compelling and informative Power BI dashboard that provides a comprehensive overview of global terrorism trends, facilitating data-driven decision-making and fostering a deeper understanding of this critical issue. The project underscores the power of data visualization in revealing complex patterns and insights that might otherwise remain hidden within vast datasets.
+    i) Most Used Weapon: Displaying the weapon type most frequently employed in attacks.
+
+    ii) Total Targets: Showing the overall count of distinct target types.
+
+    iii) Maximum Attacks: Identifying the peak count of attacks within the dataset.
+
+    iv) Most Deadly Group: Highlighting the terrorist group associated with the highest number of casualties.
+
+    The result is a visually compelling and informative Power BI dashboard that provides a comprehensive overview of global terrorism trends, facilitating data-driven decision-making and fostering a      deeper understanding of this critical issue. The project underscores the power of data visualization in revealing complex patterns and insights that might otherwise remain hidden within vast         datasets.
